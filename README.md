@@ -48,7 +48,7 @@ Rails Build 6 (Find a Pair) - Avi
 ## JavaScript
 
 ### Section 3: Recognizing JavaScript
-* What is Lexical Scope? -[Lexical Scope | Kyle Simpson | video | 5 mins](https://www.youtube.com/watch?v=dHYhMP8ESuk)
+* What is Lexical Scope? 〖Lexical Scope | Kyle Simpson | video | 5 mins〗(https://www.youtube.com/watch?v=dHYhMP8ESuk)
 * 🧪Task Lister Lite -[Lab walkthrough | Evans Wang | 30 mins](https://www.youtube.com/watch?v=cAVKZ6Pvf2E&feature=youtu.be)
 * 🧪DOM Challenge [Lab walkthrough | Ahmed Gaber | 1.5 hours](https://www.youtube.com/watch?v=ODxpIsfEfCA&feature=youtu.be)
 ### Section 4: Communicating with the Server
