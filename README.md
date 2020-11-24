@@ -3,10 +3,10 @@
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
+  <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
     <li><a href="#javascript">JavaScript</a></li>
-  </ol>
+  </ul>
 </details>
 
 ## Recorded Lectures
