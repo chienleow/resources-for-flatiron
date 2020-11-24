@@ -20,19 +20,19 @@
 ## Rails
 
 ### Section 1: Intro to Rails
-[Lecture (Avi) 1.5 hours](https://www.youtube.com/watch?v=KKQ8lpEyw2g&feature=emb_title)
-Section 4: Intro to ActionView
-Rails URL Helpers Lab - Ayana
-Section 5: CRUD
-TODOMVC - Lecture 1: Assets and Managing Lists - Avi (great video explaining how URL helpers work and CRUD)
-Section 6: Validations and Forms
+[Lecture | Avi | 1.5 hours](https://www.youtube.com/watch?v=KKQ8lpEyw2g&feature=emb_title)
+### Section 4: Intro to ActionView
+🧪 Rails URL Helpers - [Lab Walkthrough | Ayana | 1 hour](https://www.youtube.com/watch?v=xCSzwC_eDbk&feature=youtu.be)
+### Section 5: CRUD
+TODOMVC - [Lecture 1: Assets and Managing Lists | Avi | 1 hour (great video explaining how URL helpers work and CRUD)](https://www.youtube.com/watch?v=Bltz_Dz8bSw&feature=emb_title)
+### Section 6: Validations and Forms
 ActiveRecord Validations - Luisa (went through types of Validation Helpers, ActiveModel::Validator didn't quite work, but tried the block version)
-Section 7: Associations and Rails
+### Section 7: Associations and Rails
 Rails Active Record Associations - Jennifer
 Rails Associations and Nested Forms Part 1 - Aysan
 Rails Nested Forms Part 2 - Ayana
 Forms and Basic Associations Lab: The Ternary Operator in Ruby, Medium article: collection_select
-Section 10: Routes and Resources
+### Section 10: Routes and Resources
 Nested Resources and Namespace Routes - Avi (Go to 21:34 for nested resources)
 Lists of videos from different sections
 Jenn Hansen's Rails lectures/project build lists
