@@ -20,30 +20,30 @@
 ## Rails
 
 ### Section 1: Intro to Rails
-📓[Lecture | Avi | 1.5 hours](https://www.youtube.com/watch?v=KKQ8lpEyw2g&feature=emb_title)
+* 📓[Lecture | Avi | 1.5 hours](https://www.youtube.com/watch?v=KKQ8lpEyw2g&feature=emb_title)
 ### Section 4: Intro to ActionView
-🧪Rails URL Helpers - [Lab Walkthrough | Ayana | 1 hour](https://www.youtube.com/watch?v=xCSzwC_eDbk&feature=youtu.be)
+* 🧪Rails URL Helpers - [Lab Walkthrough | Ayana | 1 hour](https://www.youtube.com/watch?v=xCSzwC_eDbk&feature=youtu.be)
 ### Section 5: CRUD
-📓TODOMVC (great video explaining how URL helpers work and CRUD) - [Lecture 1: Assets and Managing Lists | Avi | 1 hour](https://www.youtube.com/watch?v=Bltz_Dz8bSw&feature=emb_title)
+* 📓TODOMVC (great video explaining how URL helpers work and CRUD) - [Lecture 1: Assets and Managing Lists | Avi | 1 hour](https://www.youtube.com/watch?v=Bltz_Dz8bSw&feature=emb_title)
 ### Section 6: Validations and Forms
-📓ActiveRecord Validations (went through types of Validation Helpers, ActiveModel::Validator didn't quite work, but tried the block version) - [Lecture | Luisa | 1 hour](https://www.youtube.com/watch?v=5jn2g5uGOys&feature=emb_title)
+* 📓ActiveRecord Validations (went through types of Validation Helpers, ActiveModel::Validator didn't quite work, but tried the block version) - [Lecture | Luisa | 1 hour](https://www.youtube.com/watch?v=5jn2g5uGOys&feature=emb_title)
 ### Section 7: Associations and Rails
-📓Rails Active Record Associations - [Lecture | Jennifer | 1 hour](https://www.youtube.com/watch?v=OwW2vB0gkXg&feature=emb_title)
-📓Rails Associations and Nested Forms - [Part 1 Lecture | Aysan | 1 hour](https://www.youtube.com/watch?v=USInXLaVJlc&t=2143s)
-📓Rails Associations and Nested Forms - [Part 2 Lecture | Aysan | 1 hour](https://www.youtube.com/watch?v=yaTaWOILTS0)
-🧪Forms and Basic Associations Lab - [The Ternary Operator in Ruby, Medium article: collection_select](https://medium.com/@dru_edmondson/the-ternary-operator-in-ruby-1e87b57f2fc9)
+* 📓Rails Active Record Associations - [Lecture | Jennifer | 1 hour](https://www.youtube.com/watch?v=OwW2vB0gkXg&feature=emb_title)
+* 📓Rails Associations and Nested Forms - [Part 1 Lecture | Aysan | 1 hour](https://www.youtube.com/watch?v=USInXLaVJlc&t=2143s)
+* 📓Rails Associations and Nested Forms - [Part 2 Lecture | Aysan | 1 hour](https://www.youtube.com/watch?v=yaTaWOILTS0)
+* 🧪Forms and Basic Associations Lab - [The Ternary Operator in Ruby, Medium article: collection_select](https://medium.com/@dru_edmondson/the-ternary-operator-in-ruby-1e87b57f2fc9)
 ### Section 10: Routes and Resources
-Nested Resources and Namespace Routes (Go to 21:34 for nested resources)[Lecture | Avi | 1 hour 40 mins](https://www.youtube.com/watch?v=AEMzXU55vLo&feature=emb_title)
+* 📓Nested Resources and Namespace Routes (Go to 21:34 for nested resources)[Lecture | Avi | 1 hour 40 mins](https://www.youtube.com/watch?v=AEMzXU55vLo&feature=emb_title)
 
 Jenn Hansen's [Rails lectures/project build lists](https://docs.google.com/document/d/1VQ3JXDxxmSpqmeXvMozAB09kEWCvHQpiHYEcckzGvx0/edit)
 
 Rails Project Build from Scratch (Avi)
-[Rails Build 1 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Y9yM205nBAA&feature=emb_title)
-[Rails Build 2 (Find a Pair) - Avi](https://www.youtube.com/watch?v=jEdXPw33QGU&feature=emb_title)
-[Rails Build 3 (Find a Pair) - Avi](https://www.youtube.com/watch?v=JfJ8qG-E1Og&feature=emb_title)
-[Rails Build 4 (Find a Pair) - Avi](https://www.youtube.com/watch?v=k0ITd43qR3Q)
-[Rails Build 5 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Qai-3ggk-zM&feature=emb_title)
-[Rails Build 6 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Vsr3wWoxUrQ&feature=emb_title)
+* [Rails Build 1 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Y9yM205nBAA&feature=emb_title)
+* [Rails Build 2 (Find a Pair) - Avi](https://www.youtube.com/watch?v=jEdXPw33QGU&feature=emb_title)
+* [Rails Build 3 (Find a Pair) - Avi](https://www.youtube.com/watch?v=JfJ8qG-E1Og&feature=emb_title)
+* [Rails Build 4 (Find a Pair) - Avi](https://www.youtube.com/watch?v=k0ITd43qR3Q)
+* [Rails Build 5 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Qai-3ggk-zM&feature=emb_title)
+* [Rails Build 6 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Vsr3wWoxUrQ&feature=emb_title)
 
 
 ## JavaScript
