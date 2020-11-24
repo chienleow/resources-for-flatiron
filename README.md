@@ -27,8 +27,8 @@
 * AJAX: Promises and Fetch [Lecture (Avi) 1.5 hours](https://www.youtube.com/watch?v=66NMDEFvhhQ&feature=emb_title)
 * Toy Tale Challenge [Lab Walkthrough (Evan) 1 hour](https://www.youtube.com/watch?v=qHt4kUp_zFs&feature=youtu.be)
 ### Section 5 - Pulling It All Together
-Build the Example [Lab Walkthrough (Aysan) 48 mins video](https://www.youtube.com/watch?v=DjWpJlmkN6c)
+* Build the Example [Lab Walkthrough (Aysan) 48 mins video](https://www.youtube.com/watch?v=DjWpJlmkN6c)
 ### Section 9 - Advanced Functions
-Callback Functions - [FreeCodeCamp article](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
-Function Declaration VS Function Expression [FreeCodeCamp article](https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)
-Reduce Lab - [Programming with Mosh JS Array reduce](https://www.youtube.com/watch?v=g1C40tDP0Bk)
+* Callback Functions - [FreeCodeCamp article](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
+* Function Declaration VS Function Expression [FreeCodeCamp article](https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)
+* Reduce Lab - [Programming with Mosh JS Array reduce](https://www.youtube.com/watch?v=g1C40tDP0Bk)
