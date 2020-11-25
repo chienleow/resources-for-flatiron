@@ -5,10 +5,10 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
-    <ul>
-        <li><a href="#built-with">Built With</a></li>
-     </ul>
     <li><a href="#rails">Rails</a></li>
+    <ul>
+        <li><a href="#project">Project</a></li>
+    </ul>
     <li><a href="#javascript">JavaScript</a></li>
   </ul>
 </details>
@@ -40,6 +40,7 @@
 
 Jenn Hansen's [Rails lectures/project build lists](https://docs.google.com/document/d/1VQ3JXDxxmSpqmeXvMozAB09kEWCvHQpiHYEcckzGvx0/edit)
 
+#### Project
 Rails Project Build from Scratch (Avi)
 * [Rails Build 1 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Y9yM205nBAA&feature=emb_title)
 * [Rails Build 2 (Find a Pair) - Avi](https://www.youtube.com/watch?v=jEdXPw33QGU&feature=emb_title)
