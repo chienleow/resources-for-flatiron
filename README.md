@@ -5,6 +5,9 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
+    <ul>
+        <li><a href="#built-with">Built With</a></li>
+     </ul>
     <li><a href="#rails">Rails</a></li>
     <li><a href="#javascript">JavaScript</a></li>
   </ul>
