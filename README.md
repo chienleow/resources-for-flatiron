@@ -62,6 +62,8 @@ Rails Project Build from Scratch (Avi)
 * 🧪Toy Tale Challenge - [Lab Walkthrough | Evans Wang | 1 hour](https://www.youtube.com/watch?v=qHt4kUp_zFs&feature=youtu.be)
 ### Section 5: Pulling It All Together
 * 🧪Build the Example - [Lab Walkthrough | Aysan | 48 mins](https://www.youtube.com/watch?v=DjWpJlmkN6c)
+### Section 6: Rails as an API
+* 🧪Pokemon Teams Project - [Lab Walkthrough | Matteo | 2 hours](https://www.youtube.com/watch?v=SkfcGWWve6A&feature=emb_err_woyt)
 ### Section 9: Advanced Functions
 * 📓Callback Functions - [FreeCodeCamp article](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
 * 📓Function Declaration VS Function Expression - [FreeCodeCamp article](https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)
