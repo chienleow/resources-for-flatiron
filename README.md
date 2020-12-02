@@ -10,6 +10,9 @@
         <li><a href="#rails-project">Rails Project</a></li>
     </ul>
     <li><a href="#javascript">JavaScript</a></li>
+    <ul>
+        <li><a href="#javascript-project">JavaScript Project</a></li>
+    </ul>
   </ul>
 </details>
 
@@ -68,3 +71,16 @@ Rails Project Build from Scratch (Avi)
 * 📓Callback Functions - [FreeCodeCamp article](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
 * 📓Function Declaration VS Function Expression - [FreeCodeCamp article](https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)
 * 🧪Reduce Lab - [Programming with Mosh JS Array reduce](https://www.youtube.com/watch?v=g1C40tDP0Bk)
+
+#### JavaScript Project
+* [JavaScript Rails API Project Setup](https://github.com/learn-co-curriculum/mod3-project-week-setup-example) (Flatiron School)
+* [JS/Rails Order of Operations Guide](https://github.com/AyanaZaire/javascript-project-resources/blob/master/js-project-ooo.md) (Ayana)
+* Ayana's Project Build Series
+  * [PART 1 — Planning and Building a Rails API](https://www.youtube.com/watch?v=Q5R7HSqdGFk&feature=youtu.be)
+  * [PART 2 — Routes, Controllers, Serializers](https://www.youtube.com/watch?v=sLrFiwhMPZU&feature=youtu.be)
+  * [PART 3 — Events, Fetch, and DOM Manipulation using a Rails API](https://www.youtube.com/watch?v=2xvuGWI3H58&feature=youtu.be)
+  * [PART 4 — OOJS Refactor](https://www.youtube.com/watch?v=oUiLxmgOvJ8&feature=youtu.be)
+  * [PART 5 — Complex Database Relationships](https://www.youtube.com/watch?v=a3gGu-g7ty8)
+  * [PART 6 — Intro to Implementing Bootstrap](https://www.youtube.com/watch?v=CSDHsmNrCEc&feature=youtu.be)
+  * [PART 7 — Implementing Auth in JS Project using JWT](https://www.youtube.com/watch?v=3PCeETWv_D4&feature=youtu.be)
+
