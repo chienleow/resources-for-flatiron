@@ -43,7 +43,7 @@
 
 Jenn Hansen's [Rails lectures/project build lists](https://docs.google.com/document/d/1VQ3JXDxxmSpqmeXvMozAB09kEWCvHQpiHYEcckzGvx0/edit)
 
-#### Rails Project
+### Rails Project
 Rails Project Build from Scratch (Avi)
 * [Rails Build 1 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Y9yM205nBAA&feature=emb_title)
 * [Rails Build 2 (Find a Pair) - Avi](https://www.youtube.com/watch?v=jEdXPw33QGU&feature=emb_title)
@@ -72,7 +72,7 @@ Rails Project Build from Scratch (Avi)
 * 📓Function Declaration VS Function Expression - [FreeCodeCamp article](https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)
 * 🧪Reduce Lab - [Programming with Mosh JS Array reduce](https://www.youtube.com/watch?v=g1C40tDP0Bk)
 
-#### JavaScript Project
+### JavaScript Project
 * [JavaScript Rails API Project Setup](https://github.com/learn-co-curriculum/mod3-project-week-setup-example) (Flatiron School)
 * [JS/Rails Order of Operations Guide](https://github.com/AyanaZaire/javascript-project-resources/blob/master/js-project-ooo.md) (Ayana)
 * Ayana's Project Build Series
