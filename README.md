@@ -39,7 +39,7 @@
 * 📓Rails Associations and Nested Forms - [Part 2 Lecture | Aysan | 1 hour](https://www.youtube.com/watch?v=yaTaWOILTS0)
 * 🧪Forms and Basic Associations Lab - [The Ternary Operator in Ruby, Medium article: collection_select](https://medium.com/@dru_edmondson/the-ternary-operator-in-ruby-1e87b57f2fc9)
 ### Section 10: Routes and Resources
-* 📓Nested Resources and Namespace Routes (Go to 21:34 for nested resources)[Lecture | Avi | 1 hour 40 mins](https://www.youtube.com/watch?v=AEMzXU55vLo&feature=emb_title)
+* 📓Nested Resources and Namespace Routes (Go to 21:34 for nested resources) - [Lecture | Avi | 1 hour 40 mins](https://www.youtube.com/watch?v=AEMzXU55vLo&feature=emb_title)
 
 Jenn Hansen's [Rails lectures/project build lists](https://docs.google.com/document/d/1VQ3JXDxxmSpqmeXvMozAB09kEWCvHQpiHYEcckzGvx0/edit)
 
