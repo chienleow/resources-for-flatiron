@@ -85,7 +85,7 @@ Rails Project Build from Scratch (Avi)
   * [PART 5 — Complex Database Relationships](https://www.youtube.com/watch?v=a3gGu-g7ty8)
   * [PART 6 — Intro to Implementing Bootstrap](https://www.youtube.com/watch?v=CSDHsmNrCEc&feature=youtu.be)
   * [PART 7 — Implementing Auth in JS Project using JWT](https://www.youtube.com/watch?v=3PCeETWv_D4&feature=youtu.be)
-* **[The Wellbeing Cookbook Project Build Series by Ally Kadel](https://www.youtube.com/playlist?list=PLNUiyK37z4zG1-hogOkAGjm5E0uG1GXTl)**
+* **The Wellbeing Cookbook Project Build Series by Ally Kadel**[Video Playlist](https://www.youtube.com/playlist?list=PLNUiyK37z4zG1-hogOkAGjm5E0uG1GXTl)
   * [PART 1 - Setting Up the API](https://youtu.be/CVywglmUwnQ)
   * [PART 2 - Setting Up the Client](https://youtu.be/eHVHvgg7dso)
   * [PART 3 - Working with Objects](https://youtu.be/hlj5tKlZNuw)
