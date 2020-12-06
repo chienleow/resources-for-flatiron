@@ -74,7 +74,7 @@ Rails Project Build from Scratch (Avi)
 
 ### JavaScript Project
 * [JavaScript Rails API Project Setup](https://github.com/learn-co-curriculum/mod3-project-week-setup-example) (Flatiron School)
-* Ayana's Project Build Series
+* **Ayana's Project Build Series
   * [JS/Rails Order of Operations Guide](https://github.com/AyanaZaire/javascript-project-resources/blob/master/js-project-ooo.md)
   * [Seeda Syllabus Backend GitHub](https://github.com/AyanaZaire/seeda_syllabus_backend)
   * [PART 1 — Planning and Building a Rails API](https://www.youtube.com/watch?v=Q5R7HSqdGFk&feature=youtu.be)
@@ -84,5 +84,5 @@ Rails Project Build from Scratch (Avi)
   * [PART 5 — Complex Database Relationships](https://www.youtube.com/watch?v=a3gGu-g7ty8)
   * [PART 6 — Intro to Implementing Bootstrap](https://www.youtube.com/watch?v=CSDHsmNrCEc&feature=youtu.be)
   * [PART 7 — Implementing Auth in JS Project using JWT](https://www.youtube.com/watch?v=3PCeETWv_D4&feature=youtu.be)
-* [The Wellbeing Cookbook Project Build Series by Ally Kadel](https://www.youtube.com/playlist?list=PLNUiyK37z4zG1-hogOkAGjm5E0uG1GXTl)
+* **[The Wellbeing Cookbook Project Build Series by Ally Kadel](https://www.youtube.com/playlist?list=PLNUiyK37z4zG1-hogOkAGjm5E0uG1GXTl)
 
