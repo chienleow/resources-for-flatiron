@@ -78,7 +78,7 @@ Rails Project Build from Scratch (Avi)
   * [JS/Rails Order of Operations Guide](https://github.com/AyanaZaire/javascript-project-resources/blob/master/js-project-ooo.md)
   * [Seeda Syllabus Frontend Repo](https://github.com/AyanaZaire/seeda_syllabus_frontend)
   * [Seeda Syllabus Backend Repo](https://github.com/AyanaZaire/seeda_syllabus_backend)
-  * **JS Mantra: When some event happens, I want to make what kind of fetch and then manipulate the DOM in what way?**
+  * **JS Mantra: When _some event_ happens, I want to make _what kind of fetch_ and then manipulate the DOM _in what way_?**
     * [PART 1 — Planning and Building a Rails API](https://www.youtube.com/watch?v=Q5R7HSqdGFk&feature=youtu.be)
     * [PART 2 — Routes, Controllers, Serializers](https://www.youtube.com/watch?v=sLrFiwhMPZU&feature=youtu.be)
     * [PART 3 — Events, Fetch, and DOM Manipulation using a Rails API](https://www.youtube.com/watch?v=2xvuGWI3H58&feature=youtu.be)
