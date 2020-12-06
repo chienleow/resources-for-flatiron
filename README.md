@@ -97,7 +97,8 @@ Rails Project Build from Scratch (Avi)
   * [PART 8 - Updating the DOM](https://youtu.be/h-QdsdSNAHE)
   * [PART 9 - Refactoring & Project Structure](https://youtu.be/71A8ta3T7L8)
   * [PART 10 - Stylin'!](https://youtu.be/rwr6MADmpcs)
-* **Aysan's Project Build** [(Video)](https://www.youtube.com/watch?v=CxZ-fG2KGsY)
+* **Aysan's Project Build**
+  * [Rails API + JavaScript Application Build](https://www.youtube.com/watch?v=CxZ-fG2KGsY)
 * **Cernan's Project Build Series**
   * [PART 1 - Build a Rails API w a Modular JS Frontend](https://www.youtube.com/watch?v=seCqoRBCq9U)
   * [PART 2 - Build a Rails API w a Modular JS Frontend](https://www.youtube.com/watch?v=O0fjpcF6s60)
