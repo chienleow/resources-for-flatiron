@@ -75,7 +75,6 @@ Rails Project Build from Scratch (Avi)
 ### JavaScript Project
 * [JavaScript Rails API Project Setup](https://github.com/learn-co-curriculum/mod3-project-week-setup-example) (Flatiron School)
 * **Ayana's Project Build Series**
-  * [JS/Rails Order of Operations Guide](https://github.com/AyanaZaire/javascript-project-resources/blob/master/js-project-ooo.md)
   * [Seeda Syllabus Backend Repo (PART 1 & 2 Notes)](https://github.com/AyanaZaire/seeda_syllabus_backend)
   * [Seeda Syllabus Frontend Repo (PART 3 & 4 Notes)](https://github.com/AyanaZaire/seeda_syllabus_frontend)
   * **JS Mantra: When _some event_ happens, I want to make _what kind of fetch_ and then manipulate the DOM _in what way_?**
