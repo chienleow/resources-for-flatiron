@@ -13,6 +13,7 @@
     <ul>
         <li><a href="#javascript-project">JavaScript Project</a></li>
     </ul>
+    <li><a href="#react">React</a></li>
   </ul>
 </details>
 
@@ -103,3 +104,4 @@ Rails Project Build from Scratch (Avi)
   * [PART 2 - Build a Rails API w a Modular JS Frontend](https://www.youtube.com/watch?v=O0fjpcF6s60)
   * [PART 3 - Build a Rails API w a Modular JS Frontend](https://www.youtube.com/watch?v=1ql2-kIQz_M)
 
+## React
