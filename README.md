@@ -105,3 +105,6 @@ Rails Project Build from Scratch (Avi)
   * [PART 3 - Build a Rails API w a Modular JS Frontend](https://www.youtube.com/watch?v=1ql2-kIQz_M)
 
 ## React
+
+### Section 6: Forms
+* 🧪Props, State, and Events Lab - [Lab Walkthrough | Seth | 1 hour](https://www.youtube.com/watch?v=VkgWPl9l4nw)
