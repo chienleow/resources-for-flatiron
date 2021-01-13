@@ -110,9 +110,9 @@ Rails Project Build from Scratch (Avi)
 * 🧪Props, State, and Events Lab - [Lab Walkthrough | Seth | 1 hour](https://www.youtube.com/watch?v=VkgWPl9l4nw)
 
 ### React-Redux Final Project
-* **Expense Tracker** [Project Build Series](https://instruction.learn.co/student/video_lectures#/?query=expense-tracker)
+* **Expense Tracker** [(Project Build Series)](https://instruction.learn.co/student/video_lectures#/?query=expense-tracker)
   * [Expense Tracker Frontend](https://github.com/Awilmerding1/expenses-frontend)
   * [Expense Tracker Backend](https://github.com/Awilmerding1/expenses-backend)
-* **Globetrotter App** [Project Build Series](https://instruction.learn.co/student/video_lectures#/?query=globetrotter)
+* **Globetrotter App** [(Project Build Series)](https://instruction.learn.co/student/video_lectures#/?query=globetrotter)
   * [Globetrotter Frontend](https://github.com/howardbdev/globetrotter-frontend)
   * [Globetrotter Backend](https://github.com/howardbdev/globetrotter-backend)
