@@ -115,8 +115,8 @@ Rails Project Build from Scratch (Avi)
 
 ### React-Redux Final Project
 * **Expense Tracker** [(Project Build Series)](https://instruction.learn.co/student/video_lectures#/?query=expense-tracker)
-  * [Expense Tracker Frontend](https://github.com/Awilmerding1/expenses-frontend)
-  * [Expense Tracker Backend](https://github.com/Awilmerding1/expenses-backend)
+  * [Expense Tracker Frontend Repo](https://github.com/Awilmerding1/expenses-frontend)
+  * [Expense Tracker Backend Repo](https://github.com/Awilmerding1/expenses-backend)
 * **Globetrotter App** [(Project Build Series)](https://instruction.learn.co/student/video_lectures#/?query=globetrotter)
-  * [Globetrotter Frontend](https://github.com/howardbdev/globetrotter-frontend)
-  * [Globetrotter Backend](https://github.com/howardbdev/globetrotter-backend)
+  * [Globetrotter Frontend Repo](https://github.com/howardbdev/globetrotter-frontend)
+  * [Globetrotter Backend Repo](https://github.com/howardbdev/globetrotter-backend)
