@@ -107,7 +107,7 @@ Rails Project Build from Scratch (Avi)
 ## React
 
 ### React Lecture Recordings and Build Series
-* [Google Sheet](https://docs.google.com/spreadsheets/d/1SOQpQ8J7czckQbGJA9OczfEIPNFspONSzS4CrYb3jOM/edit#gid=0)
+* [React Lectures & Other React Resources](https://docs.google.com/spreadsheets/d/1SOQpQ8J7czckQbGJA9OczfEIPNFspONSzS4CrYb3jOM/edit#gid=0)
 * [Nancy Noyes' lectures](https://docs.google.com/spreadsheets/d/1a-hlF6DurA_GHxcTUjNiFl4_Oju7LAtRGY-lhvV54bQ/edit#gid=603692437)
 
 ### Section 6: Forms
