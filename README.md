@@ -106,6 +106,8 @@ Rails Project Build from Scratch (Avi)
 
 ## React
 
+### React Lecture Recordings and Build Series - [Google sheet](https://docs.google.com/spreadsheets/d/1SOQpQ8J7czckQbGJA9OczfEIPNFspONSzS4CrYb3jOM/edit#gid=0)
+
 ### Section 6: Forms
 * 🧪Props, State, and Events Lab - [Lab Walkthrough | Seth | 1 hour](https://www.youtube.com/watch?v=VkgWPl9l4nw)
 
