@@ -18,14 +18,33 @@
 </details>
 
 ## Recorded Lectures
-<div class="border border-red mb-2">
-  .border-red
 * [Lectures from Flatiron School, All Topics (Google Sheet)](https://docs.google.com/spreadsheets/d/1a-hlF6DurA_GHxcTUjNiFl4_Oju7LAtRGY-lhvV54bQ/edit#gid=1112612743)
 * [Flatiron School Denver Video Library](https://flatiron-school-denver.firebaseapp.com/videos)
 * [Ahmed Gaber's lectures](https://www.youtube.com/channel/UCMNRjLzNMahLgpl-313KkJw/playlists)
 * [Aysan Isayo's lectures](https://www.youtube.com/channel/UCXWvMA6QfunUPIVkCTR8vKg/videos)
 * [Evans Wang's lectures](https://www.youtube.com/channel/UCWVPBpwgLrXBllde_xactyg/videos)
-</div>
+
+## Ruby
+### Intro to Ruby
+### Section 7: Loops
+* 🧪While and Until Loops Lab - [Lab Walkthrough](https://youtu.be/q2zKfF3s-og)
+### Section 8: Iteration
+* 🧪Tic Tac Toe Current Player - [Lab Walkthrough](https://youtu.be/osmLMT-67gs)
+### Section 9: Ruby Tic Tac Toe
+* 🧪Tic Tac Toe Game Status - [Lab Walkthrough](https://youtu.be/I8NXvN8F55g)
+* 🧪Tic Tac Toe in Ruby - [Lab Walkthrough](https://youtu.be/5SMWcV8vbFI)
+
+### Procedural Ruby
+### Section 9: Data Structures
+* 🧪Hash Manipulation Lab - [Lab Walkthrough](https://youtu.be/D6_NKh1lKrI)
+
+### OO Ruby
+* 📓[Intro to OO | Avi](https://youtu.be/UysgBTrJoTc)
+* 📓[Intro to OO | Avi (most recent)](https://youtu.be/xtlihMO1XT8)
+* 📓[Intro to OO | Aysan](https://www.youtube.com/watch?v=sOdz95bdX1M)
+* 📓[Collaborating Objects | Beth](https://youtu.be/VAVuN6C0Bvc)
+* 📓[OO Review: Mechanics When to Use What | Avi](https://youtu.be/-jrEbj4iCQ8)
+* 
 
 
 ## Rails
