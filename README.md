@@ -5,6 +5,7 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
+    <li><a href="#ruby">Ruby</a></li>
     <li><a href="#rails">Rails</a></li>
     <ul>
         <li><a href="#rails-project">Rails Project</a></li>
@@ -25,6 +26,7 @@
 * [Evans Wang's lectures](https://www.youtube.com/channel/UCWVPBpwgLrXBllde_xactyg/videos)
 
 ## Ruby
+
 ### Intro to Ruby
 ### Section 7: Loops
 * 🧪While and Until Loops Lab - [Lab Walkthrough](https://youtu.be/q2zKfF3s-og)
@@ -41,10 +43,10 @@
 ### OO Ruby
 * 📓[Intro to OO | Avi](https://youtu.be/UysgBTrJoTc)
 * 📓[Intro to OO | Avi (most recent)](https://youtu.be/xtlihMO1XT8)
+* 📓[Intro to OO | Avi | 2 hours (Great explanation)](https://youtu.be/h2618jCo_eA)
 * 📓[Intro to OO | Aysan](https://www.youtube.com/watch?v=sOdz95bdX1M)
 * 📓[Collaborating Objects | Beth](https://youtu.be/VAVuN6C0Bvc)
 * 📓[OO Review: Mechanics When to Use What | Avi](https://youtu.be/-jrEbj4iCQ8)
-* 
 
 
 ## Rails
