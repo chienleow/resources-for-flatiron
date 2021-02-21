@@ -19,6 +19,7 @@
 
 ## Recorded Lectures
 <div class="border border-red mb-2">
+  .border-red
 * [Lectures from Flatiron School, All Topics (Google Sheet)](https://docs.google.com/spreadsheets/d/1a-hlF6DurA_GHxcTUjNiFl4_Oju7LAtRGY-lhvV54bQ/edit#gid=1112612743)
 * [Flatiron School Denver Video Library](https://flatiron-school-denver.firebaseapp.com/videos)
 * [Ahmed Gaber's lectures](https://www.youtube.com/channel/UCMNRjLzNMahLgpl-313KkJw/playlists)
