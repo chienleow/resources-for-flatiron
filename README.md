@@ -79,7 +79,8 @@ Rails Project Build from Scratch (Avi)
 * [Rails Build 6 (Find a Pair) - Avi](https://www.youtube.com/watch?v=Vsr3wWoxUrQ&feature=emb_title)
 
 
-## JavaScript
+## JavaScript 
+(Suggested JS Sections order: 1–2, 7–8, 3, 9, 4–6, 10–13)
 
 ### Section 3: Recognizing JavaScript
 * 📓What is Lexical Scope? - [Lexical Scope | Kyle Simpson | video | 5 mins](https://www.youtube.com/watch?v=dHYhMP8ESuk)
