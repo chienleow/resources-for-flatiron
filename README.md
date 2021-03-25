@@ -5,7 +5,7 @@
 # Flatiron School Resources
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details open>
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
