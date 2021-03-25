@@ -6,7 +6,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open>
-  <summary><h2>Table of Contents</h2></summary>
+  <summary>Table of Contents</summary>
   <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
     <li><a href="#ruby">Ruby</a></li>
