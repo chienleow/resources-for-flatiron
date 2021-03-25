@@ -1,3 +1,5 @@
+![Flatiron School's Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlatiron_School&psig=AOvVaw0h4Rwadp293pOEBjRg_WQ3&ust=1616718249468000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLD8y_yWyu8CFQAAAAAdAAAAABAD)
+![Visits Badge](https://badges.pufler.dev/visits/chienleow/resources-for-flatiron)
 # Flatiron School Resources
 
 <!-- TABLE OF CONTENTS -->
