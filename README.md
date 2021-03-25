@@ -5,7 +5,7 @@
 # Flatiron School Resources
 
 <!-- TABLE OF CONTENTS -->
-<h2><details open>
+<h2><details open></h2>
   <summary>Table of Contents</summary>
   <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
@@ -20,7 +20,7 @@
     </ul>
     <li><a href="#react">React</a></li>
   </ul>
-</details></h2>
+</details>
 
 ## Recorded Lectures
 * [Lectures from Flatiron School, All Topics (Google Sheet)](https://docs.google.com/spreadsheets/d/1a-hlF6DurA_GHxcTUjNiFl4_Oju7LAtRGY-lhvV54bQ/edit#gid=1112612743)
