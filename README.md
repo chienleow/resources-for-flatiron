@@ -19,6 +19,9 @@
         <li><a href="#javascript-project">JavaScript Project</a></li>
     </ul>
     <li><a href="#react">React</a></li>
+    <ul>
+        <li><a href="#react-redux-final-project">React-Redux Final Project</a></li>
+    </ul>
   </ul>
 </details>
 
