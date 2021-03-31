@@ -10,6 +10,10 @@
   <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
     <li><a href="#ruby">Ruby</a></li>
+    <ul>
+        <li><a href="#intro-to-ruby">Intro to Ruby</a></li>
+        <li><a href="#oo-ruby">OO Ruby</a></li>
+    </ul>
     <li><a href="#rails">Rails</a></li>
     <ul>
         <li><a href="#rails-project">Rails Project</a></li>
