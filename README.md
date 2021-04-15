@@ -3,7 +3,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/chienleow/resources-for-flatiron)
 
 # Flatiron School Resources
-💬 Feel free to submit a Pull Request if you want to add to this list of resources, keep on coding! 💻
+💬 **Feel free to submit a Pull Request if you want to add to this list of resources, keep on coding!** 💻
 
 <!-- TABLE OF CONTENTS -->
 <details open>
