@@ -39,9 +39,9 @@
 * [Evans Wang's lectures](https://www.youtube.com/channel/UCWVPBpwgLrXBllde_xactyg/videos)
 
 ## Assessment Prep
-[CLI Assessment Prep](https://github.com/chienleow/cli-assessment-prep)
-[Sinatra Assessment Prep](https://github.com/chienleow/sinatra-assessment-prep)
-[Rails Assessment Prep](https://github.com/chienleow/rails-assessment-prep)
+* [CLI Assessment Prep](https://github.com/chienleow/cli-assessment-prep)
+* [Sinatra Assessment Prep](https://github.com/chienleow/sinatra-assessment-prep)
+* [Rails Assessment Prep](https://github.com/chienleow/rails-assessment-prep)
 
 ## Ruby
 
