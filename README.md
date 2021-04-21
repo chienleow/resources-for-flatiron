@@ -163,12 +163,7 @@ Rails Project Build from Scratch (Avi)
   * [Expense Tracker Frontend Repo](https://github.com/Awilmerding1/expenses-frontend)
   * [Expense Tracker Backend Repo](https://github.com/Awilmerding1/expenses-backend)
   * Expense Tracker React/Redux Project Build
-    * [Part 1](https://youtu.be/pkaAINITbK0)
-    * [Part 2](https://youtu.be/4CaD44cJ_gg)
-    * [Part 3](https://youtu.be/Bhql1_AyM2Q)
-    * [Part 4](https://youtu.be/koKLZqDcTuc)
-    * [Part 5](https://youtu.be/o391wN4qM9E)
-    * [Part 6]
+    * [Part 1](https://youtu.be/pkaAINITbK0), [Part 2](https://youtu.be/4CaD44cJ_gg), [Part 3](https://youtu.be/Bhql1_AyM2Q), [Part 4](https://youtu.be/koKLZqDcTuc), [Part 5](https://youtu.be/o391wN4qM9E), [Part 6](https://youtu.be/v3IBPEvPLg8), [Part 7](https://youtu.be/cefJ0w2mNag), [Part 8](https://youtu.be/L51X1pL1GDU), [Part 9](https://youtu.be/XUDhlZAfUUU), [Part 10, FINAL](https://youtu.be/iVoEOQ7og9M)
 * **Globetrotter App** [(Project Build Series)](https://instruction.learn.co/student/video_lectures#/?query=globetrotter)
   * [Globetrotter Frontend Repo](https://github.com/howardbdev/globetrotter-frontend)
   * [Globetrotter Backend Repo](https://github.com/howardbdev/globetrotter-backend)
