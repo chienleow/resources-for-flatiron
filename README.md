@@ -10,6 +10,7 @@
   <summary>Table of Contents</summary>
   <ul>
     <li><a href="#recorded-lectures">Recorded Lectures</a></li>
+    <li><a href="#assessment-prep">Assessment Prep</a></li>
     <li><a href="#ruby">Ruby</a></li>
     <ul>
         <li><a href="#intro-to-ruby">Intro to Ruby</a></li>
@@ -36,6 +37,11 @@
 * [Ahmed Gaber's lectures](https://www.youtube.com/channel/UCMNRjLzNMahLgpl-313KkJw/playlists)
 * [Aysan Isayo's lectures](https://www.youtube.com/channel/UCXWvMA6QfunUPIVkCTR8vKg/videos)
 * [Evans Wang's lectures](https://www.youtube.com/channel/UCWVPBpwgLrXBllde_xactyg/videos)
+
+## Assessment Prep
+[CLI Assessment Prep](https://github.com/chienleow/cli-assessment-prep)
+[Sinatra Assessment Prep](https://github.com/chienleow/sinatra-assessment-prep)
+[Rails Assessment Prep](https://github.com/chienleow/rails-assessment-prep)
 
 ## Ruby
 
