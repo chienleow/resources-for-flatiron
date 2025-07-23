@@ -1,6 +1,5 @@
 ![Flatiron School's Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/FS_wiki.png/330px-FS_wiki.png)
 
-![Visits Badge](https://badges.pufler.dev/visits/chienleow/resources-for-flatiron)
 
 # Flatiron School Resources
 💬 **Feel free to submit a Pull Request if you want to add to this list of resources, keep on coding!** 💻
